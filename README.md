@@ -10,7 +10,7 @@ Zotero的操作指南：https://zhuanlan.zhihu.com/p/98428625?from_voters_page=t
 
 下载： https://www.zotero.org/download/
 Mac和windows（在红色框出的地方）
-![Alt text](image.png)
+![Image](image.png)
 
 Zotero基础操作，比Endnote更好用的文献管理软件
 https://www.bilibili.com/video/BV1ZE411p7qT/?spm_id_from=333.788.recommend_more_video.1&vd_source=214ff1ff5aa5dff40791b883cac458e1
